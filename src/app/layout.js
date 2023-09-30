@@ -17,7 +17,7 @@ export default async function RootLayout({ children }) {
     <html>
       <body>
         <h1>
-          <Link href='/'>WEB</Link>
+          <Link href='/'>Yoosb WEB</Link>
         </h1>
         <ol>
           {topics.map((topics) => {
